@@ -6,4 +6,4 @@ How to use: scan your document twice: once normally, the other time by putting t
 
 `./twosided-scan.py front.pdf back.pdf`
 
-This script requires [https://qpdf.sourceforge.io/|QPDF]
+This script requires [QPDF](https://qpdf.sourceforge.io/)
